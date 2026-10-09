@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.9809193408499567,
+  "macro_f1": 0.9573327067930414,
+  "method": "bert",
+  "device": "mps",
+  "train_seconds": 1147.7
+}

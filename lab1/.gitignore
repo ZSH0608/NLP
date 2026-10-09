@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Data & heavy artifacts (原始 csv 已放 data/raw，大文件可按需忽略)
+embeddings/
+models/
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Local experiment dumps (保留 results/.gitkeep)
+# results/*.json
+# results/*.csv

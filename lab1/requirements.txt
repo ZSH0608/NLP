@@ -1,0 +1,10 @@
+numpy>=2.0
+pandas>=2.0
+scikit-learn>=1.5
+nltk>=3.8
+gensim>=4.3
+torch>=2.2
+transformers>=4.40
+accelerate>=0.30
+tqdm>=4.66
+PyYAML>=6.0
